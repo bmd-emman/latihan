@@ -1,2 +1,2 @@
 Satu dua tiga
-empat lima enam
+EMPAT LIMA ENAM
